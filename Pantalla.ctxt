@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Pantalla
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pantalla\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ fabricante\ numeroSerie\ marca\ costo\ componente
+comment1.target=Pantalla(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ float,\ java.util.ArrayList)
+comment2.params=resolucionX\ resolucionY
+comment2.target=void\ setResolucionXY(int,\ int)
+comment3.params=
+comment3.target=int\ getResolucionX()
+comment4.params=
+comment4.target=int\ getResolucionY()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

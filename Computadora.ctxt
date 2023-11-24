@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Computadora
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Computadora\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ fabricante\ numeroSerie\ marca\ costo\ componente
+comment1.target=Computadora(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ float,\ java.util.ArrayList)
+comment2.params=
+comment2.target=long\ getRam()
+comment3.params=ramMb
+comment3.target=void\ setRam(long)
+numComments=4

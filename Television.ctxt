@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Television
+comment1.params=pantalla
+comment1.target=Television(Pantalla)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

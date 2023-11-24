@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ComponenteElectronico
+comment0.text=\r\n\r\n\ @author\ Carlo\r\n
+comment1.params=nombre\ fabricante\ numeroSerie\ marca\ costo\ componente
+comment1.target=ComponenteElectronico(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ float,\ java.util.ArrayList)
+comment2.params=
+comment2.target=boolean\ esParteDe()
+numComments=3

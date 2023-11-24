@@ -1,0 +1,51 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia
+-source
+17
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\javafx-base-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-base-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-controls-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-controls-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-fxml-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-graphics-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-graphics-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-media-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-media-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-swing-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-web-20.0.1-win.jar;C:\Program Files\BlueJ\lib\junit-4.12.jar;C:\Program Files\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\opentest4j-1.2.0.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia
+-d
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+Herencia
+-windowtitle
+Herencia
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/17/docs/api/
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia/DispositivoElectronico.java
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia/ComponenteElectronico.java
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia/AppDemoHerencia.java
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia/Television.java
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia/DispositivoElectronicoDeConsumo.java
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia/Computadora.java
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia/Microprocesador.java
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia/Pantalla.java
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia/Smartphone.java
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia/Sensor.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\DispositivoElectronico.java...
+Loading source file C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\ComponenteElectronico.java...
+Loading source file C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\AppDemoHerencia.java...
+Loading source file C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\Television.java...
+C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\Television.java:13: error: illegal start of expression
+       pantalla = new Pantalla("LGTV", "LG", "2100", "SmartLG", 16000, );
+                                                                       ^
+Loading source file C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\DispositivoElectronicoDeConsumo.java...
+Loading source file C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\Computadora.java...
+Loading source file C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\Microprocesador.java...
+Loading source file C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\Pantalla.java...
+Loading source file C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\Smartphone.java...
+Loading source file C:\Users\Carlo\OneDrive\Documentos\NetBeansProjects\chapter01\Herencia\Sensor.java...
+1 error
